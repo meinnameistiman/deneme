@@ -1,6 +1,6 @@
 ## SQL Basic
 | NO | Challenges | Solutions |
-|:--|:-----------:|:---------:|
+|:---|:-----------:|:---------:|
 | 1 | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [SQL]
 | 2 | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem) | [SQL]
 | 3 | [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem) | [SQL]
