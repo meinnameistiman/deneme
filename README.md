@@ -2,11 +2,11 @@
 | NO | Challenges | Solutions |
 |:--|------------|:---------:|
 
-| 1 | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [SQL]()
-| 2 | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem) | [SQL]()
-| 3 | [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem) | [SQL]()
-| 4 | [Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem) | [SQL]()
-| 5 | [Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem) | [SQL]()
+| 1 | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [SQL]
+| 2 | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem) | [SQL]
+| 3 | [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem) | [SQL]
+| 4 | [Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem) | [SQL]
+| 5 | [Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem) | [SQL]
 | 6 | [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem) | [SQL]()
 | 7 | [Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1/problem) | [SQL]()
 | 8 | [Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3/problem) | [SQL]()
